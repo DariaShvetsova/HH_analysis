@@ -13,3 +13,6 @@
 4 - очистка данных
 
 Исходный датасет можно скачать по [ссылке](https://drive.google.com/file/d/1CAYAjgyQIsVXH1VruMcYF9Gu0YDVp8_D/view?usp=sharing)
+
+График для задания 4.3 лежит [тут](Histogram_raspr_zp.html)
+График для задания 4.4 лежит [тут](Histogram_raspr_zp_ot_obrazov.html)
